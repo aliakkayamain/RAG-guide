@@ -267,4 +267,6 @@ Güvenlik ve Uyum araçları, RAG sistemlerini tehditleri tespit ederek, içerik
 | RARR Benchmark | RAG sistemlerini değerlendirmek için benchmark | [Bağlantı](https://github.com/amazon-science/rarr) |
 | Hugging Face RAG Guide | RAG uygulamalarının nasıl uygulanacağını anlatan rehber | [Bağlantı](https://huggingface.co/docs/transformers/model_doc/rag) |
 
+
+##
 Lütfen bu depoyu faydalı bulursanız bir yıldız vermeyi unutmayın.
